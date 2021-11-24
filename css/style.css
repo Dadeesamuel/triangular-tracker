@@ -1,0 +1,39 @@
+body{
+    background-color: chocolate;
+}
+.welcome{
+    font-size: x-large;
+    font-family: cursive;
+    text-indent: 5px;
+}
+#click{
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+   
+   
+}
+.btn{
+    background-color: rgb(207, 159, 252);
+}
+.me{
+    font-size: xx-large;
+    font-family: cursive;
+    font-weight: bolder;
+}
+label{
+    font-weight: bolder;
+    padding-left: 20px;
+}
+.status {
+    display: none;
+}
+.result1 {
+    display: none;
+}
+.result2 {
+    display: none;
+}
+.result3 {
+    display: none;
+}

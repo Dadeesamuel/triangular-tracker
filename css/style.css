@@ -37,3 +37,10 @@ label{
 .result3 {
     display: none;
 }
+li{
+    font-size: xx-large;
+    color: aliceblue;
+}
+h1{
+    color: rgb(169, 207, 238);  
+}
